@@ -271,4 +271,5 @@ This project demonstrates how data analysis and visualization can help businesse
 
 
 \---
+<img width="1029" height="613" alt="google_playstore_apreport_dashboard_Screenshot " src="https://github.com/user-attachments/assets/68ad47f0-5bcf-41c4-b0cb-bb77abb33dbc" />
 
